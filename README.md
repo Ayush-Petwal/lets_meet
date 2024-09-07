@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/lets-meet.git
+   https://github.com/Ayush-Petwal/lets_meet.git
    cd lets-meet
 2. **Install dependencies**
     ```bash
