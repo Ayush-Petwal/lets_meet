@@ -10,7 +10,7 @@ import 'react-datepicker/dist/react-datepicker.css'
 const inter = Inter({subsets : ['latin']});
 
 export const metadata: Metadata = {
-  title: "Let's Meet",
+  title: "Let&apos;s Meet",
   description: "Video conferencing made easy",
   icons: {
     icon: '/icons/logo.svg'
@@ -27,7 +27,7 @@ export default function RootLayout({
       <ClerkProvider
         appearance={{
           layout:{
-            // logo attach here
+            // logo attach here clerk
             // logoImageUrl: '/icons/lets-meet.svg',
             socialButtonsVariant: 'iconButton',
           },
