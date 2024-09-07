@@ -9,6 +9,7 @@
 }
 
 /* ======== stream css overrides ======== */
+
 .str-video__call-stats {
   max-width: 500px;
   position: relative;
@@ -53,6 +54,10 @@
   -webkit-backdrop-filter: blur(8px);
 }
 
+.str-video__video-preview-container{
+  text-align: center;
+  width: 50vw;
+}
 /* ==== clerk class override ===== */
 
 /* apple and github button glowing theam */
