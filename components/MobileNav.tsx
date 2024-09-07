@@ -32,7 +32,7 @@ const MobileNav = () => {
                     src='/icons/logo.svg'
                     width={32}
                     height={32}
-                    alt=" Let's Meet "
+                    alt=" Let&apos;s Meet "
                     className='max-sm:size-10'
                     />
                     <p className='text-[26px] font-extrabold text-white'>Let's Meet</p>
